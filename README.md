@@ -13,9 +13,10 @@ No contexto do Python, foram elaboradas as seguintes funcionalidades:
 
 Utilizando o Python, foram abordadas as seguintes áreas:
 
-Desenvolvimento de interfaces em Python para o cadastramento de clientes através do site da Petshop Oliveira, proporcionando uma experiência intuitiva e eficiente.
+1 - Desenvolvimento de interfaces em Python para o cadastramento de clientes através do site da Petshop Oliveira, proporcionando uma experiência intuitiva e eficiente.
 Implementação de interfaces para o cadastro de produtos no sistema, simplificando o gerenciamento do catálogo da empresa.
-Pesquisa e Visualização de Informações:
 
+2 - Pesquisa e Visualização de Informações:
 Desenvolvimento de interfaces que permitiram aos atendentes e gerentes pesquisar informações sobre produtos, proporcionando uma visão rápida e detalhada.
+
 O projeto resultou na integração eficaz entre o banco de dados MongoDB e as interfaces em Python, criando um ambiente coeso e funcional para a Petshop Oliveira. O resultado final visa otimizar os processos da empresa, fornecendo ferramentas práticas e insights relevantes para uma administração efetiva e bem-sucedida.

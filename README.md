@@ -9,7 +9,7 @@ Utilização da linguagem JavaScript para a construção do esquema e a manipula
 
 2 - Consultas Gerenciais:
 Criação de consultas gerenciais no MongoDB para fornecer informações relevantes ao gerente da Petshop, facilitando a geração de relatórios e análises estratégicas.
-No contexto do Python, foram elaboradas as seguintes funcionalidades:
+
 
 Utilizando o Python, foram abordadas as seguintes áreas:
 
